@@ -10,9 +10,9 @@
 
 <h3 align="center">
   <img alt="task-timer"
-    src="./screenshots/task-timer-01.png" />
+    src="./screenshots/task-timer-01.PNG" />
   <img alt="task-timer"
-    src="./screenshots/task-timer-02.png" />
+    src="./screenshots/task-timer-02.PNG" />
 </h3>
 
 ## ✅ Features
