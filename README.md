@@ -9,11 +9,10 @@
 ## 🎨 Screens
 
 <h3 align="center">
-  <img alt="coworking"
+  <img alt="task-timer"
     src="./screenshots/task-timer-01.png" />
-  <img alt="coworking"
+  <img alt="task-timer"
     src="./screenshots/task-timer-02.png" />
-
 </h3>
 
 ## ✅ Features
